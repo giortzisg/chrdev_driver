@@ -3,4 +3,5 @@ A device driver for acquiring data from a collection of microcontroller sensors,
 
 # Authors
 Giannis Giortzis Software Engineering Student [@ECE NTUA](https://www.ece.ntua.gr/)
+
 Dimitrios Lampros Software Engineering Student [@ECE NTUA](https://www.ece.ntua.gr/)
